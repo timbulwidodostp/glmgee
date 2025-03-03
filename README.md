@@ -1,6 +1,8 @@
 # glmgee
 Fit generalized estimating equations Use glmgee (glmtoolbox) With (In) R Software
 
+https://www.youtube.com/watch?v=8CPgf8kRikQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
